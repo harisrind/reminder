@@ -1,13 +1,8 @@
-# flask_ORM_reminder_todo_app
-Simple flask todo application
+# Flask Reminder System
+
 
 #features
-Python
-SqlAlchemy
-ORM
-POSTGRESQL
-Authentication (Login, Logout, Validation)
-CRUD (Create, Read, Update, Delete)
-CSS
-HTML
-Javascript
+- Create 
+- Retrieve
+- Update
+- Delete
